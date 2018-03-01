@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnailEventBus", "SnailEventBus\SnailEventBus.csproj", "{042845E1-4530-4A7A-9BD4-C2051F16B144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanilEventBus.Test", "SanilEventBus.Test\SanilEventBus.Test.csproj", "{D9FA2523-49AF-44F0-ADBC-5EF8B4F36584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042845E1-4530-4A7A-9BD4-C2051F16B144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042845E1-4530-4A7A-9BD4-C2051F16B144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042845E1-4530-4A7A-9BD4-C2051F16B144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042845E1-4530-4A7A-9BD4-C2051F16B144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9FA2523-49AF-44F0-ADBC-5EF8B4F36584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FA2523-49AF-44F0-ADBC-5EF8B4F36584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FA2523-49AF-44F0-ADBC-5EF8B4F36584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FA2523-49AF-44F0-ADBC-5EF8B4F36584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC60C22-140A-40F8-B903-85A7B6A28CB8}
+	EndGlobalSection
+EndGlobal
